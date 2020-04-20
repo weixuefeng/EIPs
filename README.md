@@ -21,7 +21,7 @@ Once your first PR is merged, we have a bot that helps out by automatically merg
 
 When you believe your EIP is mature and ready to progress past the draft phase, you should do one of two things:
 
- - **For a Standards Track EIP of type Core**, ask to have your issue added to [the agenda of an upcoming All Core Devs meeting](https://github.com/ethereum/pm/issues), where it can be discussed for inclusion in a future hard fork. If implementers agree to include it, the EIP editors will update the state of your EIP to 'Accepted'.
+ - **For a Standards Track EIP of type Core**,  ask to have your issue added to [the agenda of an upcoming All Core Devs meeting](https://github.com/ethereum/pm/issues), where it can be discussed for inclusion in a future hard fork. If implementers agree to include it, the EIP editors will update the state of your EIP to 'Accepted'.
  - **For all other EIPs**, open a PR changing the state of your EIP to 'Final'. An editor will review your draft and ask if anyone objects to its being finalised. If the editor decides there is no rough consensus - for instance, because contributors point out significant issues with the EIP - they may close the PR and request that you fix the issues in the draft before trying again.
 
 # EIP Status Terms
